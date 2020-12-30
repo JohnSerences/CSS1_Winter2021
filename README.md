@@ -1,6 +1,4 @@
-# CSS1_Winter2021
-
-# CSS01 IntroPython W2020
+# CSS01 Winter2021
 
 # Instructor: John Serences 
 
@@ -8,7 +6,7 @@
 
 ## Meeting time: M 8-8:50am, XX-XX
 
-## Zoom [link here](https://ucsd.zoom.us/j/95346098694)
+## Zoom [link here]()
 
 ## TAs: Saurabh Mirani (smirani@ucsd.edu), Kinshuk Sahu (ksahu@ucsd.edu), Muqing Fan (mufan@ucsd.edu), Asfiya Baig (asbaig@ucsd.edu)
 
@@ -101,29 +99,5 @@ F 0-59.99999
 ***You must work independently on the problem sets and the final project. Doing work for another student or providing assistance on the problem sets or final project will be treated as a violation of academic integrity and you will be referred for disciplinary action. Similarly, emailing with or otherwise communicating with other students or anyone else during a quiz or exam will be treated as a violation and also referred for disciplinary action.***   
 
 ## Course Topics
-Week of Jan 4th: What is Python?, Jupyter Environment (Google Colab), First Program, Intro to object types and methods
 
-Week of Jan 11th: More on object types, lists, for loops, list comprehensions, slicing lists
-
-#### Jan 18 (no class, MLK)
-
-Jan 22: If…elif…else statements, dictionaries
-
-Jan 27,29: while statements, writing functions
-
-#### Midterm on Feb 3rd, no class on Feb 5th
-
-Feb 10,12: Classes, object-oriented programming
-
-#### Feb 17 (no class, Pres. day)
-
-Feb 19: File Input/Output, data formats for files (e.g. JSON, HDF5)
-
-Feb 24,26: Pandas (data frames)
-
-March 2,4: NumPy (numerical computing)
-
-March 9,11: Data visualization (Matplotlib)
-
-Final Project Due: TBD (when our final exam time is allocated by the Registrar)
 
