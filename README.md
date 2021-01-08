@@ -4,8 +4,6 @@
 
 ## Synchronous Meeting Times: Class Monday 8-8:50AM, Office Hour Weds 11-11:50AM
 
-## TAs: Saurabh Mirani (smirani@ucsd.edu), Kinshuk Sahu (ksahu@ucsd.edu), Muqing Fan (mufan@ucsd.edu), Asfiya Baig (asbaig@ucsd.edu)
-
 ## Section times
 
 Muqing: Mondays 9:00-10:50 am 
