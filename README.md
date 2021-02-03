@@ -123,9 +123,9 @@ Week of Jan 25th: If…elif…else statements, dictionaries
 
 Week of Feb 1st: while statements, writing functions
 
-Week of Feb 8th: writing functions, modules (no class weds)
+Week of Feb 8th: writing functions (no class weds)
 
-Week of Feb 15th: (no class on monday, pres day)...File Input/Output, data formats for files (e.g. JSON, HDF5)
+Week of Feb 15th: (no class on monday, pres day)...modules, File Input/Output, data formats for files (e.g. JSON, HDF5)
 
 Week of Feb 22nd: Pandas (data frames)
 
