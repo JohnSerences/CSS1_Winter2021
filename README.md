@@ -2,7 +2,7 @@
 
 # Instructor: John Serences
 
-## Synchronous Meeting Times: Class Monday 8-8:50AM, Office Hour Weds 11-11:50AM
+## Synchronous Meeting Times: Class Monday 8-8:50AM, Weds 11-11:50AM
 
 ## TAs: Saurabh Mirani (smirani@ucsd.edu), Kinshuk Sahu (ksahu@ucsd.edu), Muqing Fan (mufan@ucsd.edu), Asfiya Baig (asbaig@ucsd.edu)
 
@@ -16,7 +16,9 @@ Kinshuk: Tuesday 9-10:50 am
 
 Saurabh: Wednesday 9:00a -10:50am 
 
-## TA Office Hours
+## Office Hours
+
+Me: Thursday 11-12
 
 Muqing: Tuesday 11-12AM 
 
