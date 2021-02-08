@@ -2,7 +2,9 @@
 
 # Instructor: John Serences
 
-## Synchronous Meeting Times: Class Monday 8-8:50AM, Office Hour Weds 11-11:50AM
+## Synchronous Meeting Times: Class Monday 8-8:50AM, Weds 11-11:50AM
+
+## TAs: Saurabh Mirani (smirani@ucsd.edu), Kinshuk Sahu (ksahu@ucsd.edu), Muqing Fan (mufan@ucsd.edu), Asfiya Baig (asbaig@ucsd.edu)
 
 ## Section times
 
@@ -13,6 +15,18 @@ Asfiya: Mondays 11.00 am - 12.50 pm
 Kinshuk: Tuesday 9-10:50 am 
 
 Saurabh: Wednesday 9:00a -10:50am 
+
+## Office Hours
+
+Me: Thursday 11-12
+
+Muqing: Tuesday 11-12AM 
+
+Asfiya: Friday 3-4PM 
+
+Kinshuk: Weds 12-1PM 
+
+Saurabh: Friday 9am - 10am 
 
 ## Course description
 This course will introduce new programmers to Python and the Jupyter Notebook environment. No programming experience is necessary as we'll start with the basics. 
@@ -48,7 +62,7 @@ There are many other good books as well that may help. Remember though - we are 
 ## Grading
 
 ## Problem sets
-There will be a problem set that you will work on in section and out of class. These assignments are meant to give you the hands-on practice that you need to develop fluency in the language. You must complete 8/10 problem sets (drop the two lowest scores). The problem sets will be graded weekly and will count for 5 points each (40 total). 
+There will be a problem set that you will work on in section and out of class. These assignments are meant to give you the hands-on practice that you need to develop fluency in the language. You must complete 7/9 problem sets (drop the two lowest scores). The problem sets will be graded weekly and will count for 5 points each (35 total). 
 
 The problem sets are due each Monday morning at 8AM (before class). 
 
@@ -111,9 +125,9 @@ Week of Jan 25th: If…elif…else statements, dictionaries
 
 Week of Feb 1st: while statements, writing functions
 
-Week of Feb 8th: Classes, object-oriented programming
+Week of Feb 8th: writing functions (no class weds)
 
-Week of Feb 15th: (no class on monday, pres day)...File Input/Output, data formats for files (e.g. JSON, HDF5)
+Week of Feb 15th: (no class on monday, pres day)...modules, File Input/Output, data formats for files (e.g. JSON, HDF5)
 
 Week of Feb 22nd: Pandas (data frames)
 
